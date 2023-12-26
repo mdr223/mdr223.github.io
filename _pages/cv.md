@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Cornell University, 2018
+* M.S. in Computer Science, Stanford University (left in 2023)
+* Ph.D in Data Systems/ML, MIT, 2029 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * Amazon Web Services
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2019 - Summer 2023: Senior Software Engineer (ML)
+  * Cambridge Mobile Telematics
+
+* Summer 2018 - Fall 2019: Software Engineer
+  * Soroco
 
 Publications
 ======
@@ -56,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-captain of Cornell University Varsity Wrestling team, 2017-2018.
