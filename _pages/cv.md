@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, *magna cum laude*, Cornell University, 2018
-* M.S. in Computer Science, Stanford University, 2023 (GPA: 4.00)
-* Ph.D. in Computer Science, MIT EECS, 2029 (expected)
+* B.S. in Computer Science, Cornell University, 2018
+* M.S. in Computer Science, Stanford University, (left early to pursue Ph.D.)
+* Ph.D. in Computer Science, MIT EECS, 2028 (expected)
   * Advisor: Tim Kraska
 
 Honors & Awards
